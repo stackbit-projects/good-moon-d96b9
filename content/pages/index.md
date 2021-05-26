@@ -11,11 +11,7 @@ sections:
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
-    actions:
-      - title: See all items
-        url: /store
-        arrow: true
-        style: primary
+    actions: []
   - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: >-
